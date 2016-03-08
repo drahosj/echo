@@ -5,7 +5,7 @@ static void print_welcome()
 {
 	printf("Welcome to the echo server!\n");
 	printf("---------------------------\n");
-	printf("The compiled binary is available at files.pqz.us/echo\n");
+	printf("The compiled binary is available at echo.pqz.us/echo\n");
 	printf("Enter 'source' to get source code\n");
 	printf("Otherwise, enter any line to have it printed back to you\n");
 }
